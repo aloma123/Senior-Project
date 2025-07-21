@@ -812,7 +812,8 @@ PlayerSettings:
     WebGL: FISHNET;FISHNET_V4
   additionalCompilerArguments: {}
   platformArchitecture: {}
-  scriptingBackend: {}
+  scriptingBackend:
+    Server: 1
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   managedStrippingLevel:
